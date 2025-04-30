@@ -1,0 +1,31 @@
+1. Descargar el archivo:
+Descarga el archivo renombrar_archivos.exe desde el enlace proporcionado.
+
+2. Preparar los archivos a renombrar:
+Asegúrate de tener una carpeta con los archivos que deseas renombrar.
+
+Los archivos deben estar en formato PDF (o el formato que el script esté configurado para procesar).
+
+3. Ejecutar el programa:
+Haz doble clic en renombrar_archivos.exe para abrir la interfaz de la aplicación.
+
+4. Elegir la opción de renombrado:
+Opción 1: Renombrado automático:
+
+Solo debes seleccionar la carpeta donde se encuentran los archivos.
+
+El programa renombrará los archivos automáticamente, organizándolos de acuerdo con un formato predefinido.
+
+Opción 2: Renombrado manual:
+
+Si deseas renombrar los archivos de manera personalizada, selecciona la carpeta y luego podrás escribir los nuevos nombres para los archivos.
+
+El programa renombrará los archivos según los nombres que ingreses.
+
+5. Verificación:
+El programa te mostrará un mensaje de confirmación una vez que los archivos se hayan renombrado correctamente.
+
+6. Consejos adicionales:
+Asegúrate de que los archivos no estén abiertos o en uso por otro programa antes de renombrarlos.
+
+Si tienes dudas sobre cómo usar el programa, revisa las instrucciones nuevamente o contacta con el soporte.
